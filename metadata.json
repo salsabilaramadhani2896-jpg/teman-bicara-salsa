@@ -1,0 +1,6 @@
+{
+  "name": "TEMAN BICARA - BK Interaktif Peserta Didik",
+  "description": "Media Digital Interaktif untuk Melatih Komunikasi Interpersonal dan Penyelesaian Konflik Pertemanan Peserta Didik",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
